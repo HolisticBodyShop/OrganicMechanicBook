@@ -2,7 +2,7 @@
 
 > **Purpose**: Universal routing layer for AI assistants (Claude Code, MCP servers, Claude Projects)
 > **Last Regenerated**: 2025-12-23
-> **Total Files**: 4 | **Total Size**: ~8 KB | **Total Lines**: ~200
+> **Total Files**: 19 | **Total Size**: ~120 KB | **Total Lines**: ~3,500
 
 ---
 
@@ -10,27 +10,30 @@
 
 | Query Type | Start Here | Then Check |
 |------------|------------|------------|
-| Concepts/Principles | [NAVIGATION.md](NAVIGATION.md) | [FAQ.md](FAQ.md), [GLOSSARY.md](GLOSSARY.md) |
+| Book Philosophy | [paradigm/](paradigm/) | [FAQ.md](FAQ.md) |
+| Core Concepts | [concepts/](concepts/) | [GLOSSARY.md](GLOSSARY.md) |
+| Body Structures | [structures/](structures/) | [GLOSSARY.md](GLOSSARY.md) |
 | Terms/Definitions | [GLOSSARY.md](GLOSSARY.md) | Topic folders |
 | Common Questions | [FAQ.md](FAQ.md) | Linked detail files |
-| Protocols/Methods | [protocols/](protocols/) | [GLOSSARY.md](GLOSSARY.md) |
 | Case Studies | [case-studies/](case-studies/) | [concepts/](concepts/) |
-| Templates | [templates/](templates/) | [checklists/](checklists/) |
+| Decision Trees | [reference/](reference/) | [concepts/](concepts/) |
 
 ---
 
 ## Domain Summary
 
-| Domain | Path | Files | Size | Primary Focus |
-|--------|------|-------|------|---------------|
-| **Foundation** | `knowledge-base/` | 4 | ~8 KB | Index, navigation, glossary, FAQ |
-| **Concepts** | `concepts/` | 0 | 0 KB | Core wellness principles |
-| **Protocols** | `protocols/` | 0 | 0 KB | Step-by-step methods |
-| **Case Studies** | `case-studies/` | 0 | 0 KB | Real examples, stories |
-| **Templates** | `templates/` | 0 | 0 KB | Fill-in-the-blank guides |
-| **Checklists** | `checklists/` | 0 | 0 KB | Action lists |
-| **Reference** | `reference/` | 0 | 0 KB | Diagrams, reading lists |
-| **Data** | `data/` | 0 | 0 KB | Logs, tracking |
+| Domain | Path | Files | Primary Focus |
+|--------|------|-------|---------------|
+| **Foundation** | `knowledge-base/` | 5 | Index, navigation, glossary, FAQ, README |
+| **Paradigm** | `paradigm/` | 2 | Book philosophy, medical critique |
+| **Concepts** | `concepts/` | 2 | Body as system, pain understanding |
+| **Structures** | `structures/` | 5 | Tensegrity, fascia, kinetic chain, joints |
+| **Case Studies** | `case-studies/` | 5 | Clinical examples from Ch 3 |
+| **Reference** | `reference/` | 1 | Pain decision tree |
+| **Protocols** | `protocols/` | 0 | Step-by-step methods (future) |
+| **Templates** | `templates/` | 0 | Fill-in-the-blank guides (future) |
+| **Checklists** | `checklists/` | 0 | Action lists (future) |
+| **Data** | `data/` | 0 | Logs, tracking |
 
 ---
 
@@ -38,22 +41,22 @@
 
 | Intent | Route |
 |--------|-------|
-| "How do I do X?" | → [FAQ.md](FAQ.md) → specific how-to file |
-| "What does X mean?" | → [GLOSSARY.md](GLOSSARY.md) |
-| "Show me an example of X" | → [case-studies/](case-studies/) |
-| "Give me a template for X" | → [templates/](templates/) |
-| "What's the checklist for X?" | → [checklists/](checklists/) |
-| "What protocol should I follow?" | → [protocols/](protocols/) |
+| "What is this book about?" | → [you-are-light.md](paradigm/you-are-light.md) |
+| "Why doesn't medicine help my pain?" | → [reductionism-limits.md](paradigm/reductionism-limits.md) |
+| "How does pain work?" | → [pain-as-signal.md](concepts/pain-as-signal.md) |
+| "What does X term mean?" | → [GLOSSARY.md](GLOSSARY.md) |
+| "Show me a clinical example" | → [case-studies/](case-studies/) |
+| "How do I assess pain?" | → [pain-decision-tree.md](reference/pain-decision-tree.md) |
+| "What is fascia/tensegrity/etc?" | → [structures/](structures/) |
 
 ---
 
 ## Foundation Files
 
-These are the primary index/reference files - check these first:
-
 | File | Purpose |
 |------|---------|
 | [README.md](README.md) | Entry point, AI processing rules |
+| [KB-INDEX.md](KB-INDEX.md) | This file - universal router |
 | [GLOSSARY.md](GLOSSARY.md) | Term definitions, cross-references |
 | [NAVIGATION.md](NAVIGATION.md) | Decision trees, routing |
 | [FAQ.md](FAQ.md) | Common questions, quick answers |
@@ -62,15 +65,58 @@ These are the primary index/reference files - check these first:
 
 ## Full File Manifest
 
-### knowledge-base/
+### paradigm/
 
-| File | Size | Lines |
-|------|------|-------|
-| [KB-INDEX.md](KB-INDEX.md) | 4K | 80 |
-| [README.md](README.md) | 4K | 100 |
-| [GLOSSARY.md](GLOSSARY.md) | 4K | 80 |
-| [NAVIGATION.md](NAVIGATION.md) | 4K | 60 |
-| [FAQ.md](FAQ.md) | 4K | 60 |
+| File | Source | Focus |
+|------|--------|-------|
+| [you-are-light.md](paradigm/you-are-light.md) | Preface | Core philosophy, energy-matter |
+| [reductionism-limits.md](paradigm/reductionism-limits.md) | Ch 1 | Medical system critique |
+
+### concepts/
+
+| File | Source | Focus |
+|------|--------|-------|
+| [body-as-system.md](concepts/body-as-system.md) | Ch 1 | Complex adaptive systems |
+| [pain-as-signal.md](concepts/pain-as-signal.md) | Ch 4 | Pain as information |
+
+### structures/
+
+| File | Source | Focus |
+|------|--------|-------|
+| [tensegrity.md](structures/tensegrity.md) | Ch 2 | Tension-based stability |
+| [bones-dont-move.md](structures/bones-dont-move.md) | Ch 2 | Force governs alignment |
+| [fascial-bunching.md](structures/fascial-bunching.md) | Ch 3 | Fascia as load-sharing network |
+| [kinetic-chain.md](structures/kinetic-chain.md) | Ch 3 | Connected movement chains |
+| [joint-centration.md](structures/joint-centration.md) | Ch 3 | Optimal joint positioning |
+
+### case-studies/
+
+| File | Condition | Key Lesson |
+|------|-----------|------------|
+| [case-perfect-mri-knee.md](case-studies/case-perfect-mri-knee.md) | Knee pain | Pain ≠ damage location |
+| [case-frozen-shoulder.md](case-studies/case-frozen-shoulder.md) | Shoulder ROM | Local stiffness = remote binding |
+| [case-chronic-neck-pain.md](case-studies/case-chronic-neck-pain.md) | Neck pain | NS sacrifices comfort for movement |
+| [case-bone-on-bone-hip.md](case-studies/case-bone-on-bone-hip.md) | Hip degeneration | Degeneration where rotation trapped |
+| [case-strong-broken-athlete.md](case-studies/case-strong-broken-athlete.md) | Athletic pain | Control beats capacity |
+
+### reference/
+
+| File | Purpose |
+|------|---------|
+| [pain-decision-tree.md](reference/pain-decision-tree.md) | Systematic pain assessment |
+
+---
+
+## Chapter Coverage
+
+| Chapter | Status | Primary Files |
+|---------|--------|---------------|
+| Preface - You Are Light | Complete | paradigm/you-are-light.md |
+| Ch 1 - Why the System Can't See You | Complete | paradigm/reductionism-limits.md, concepts/body-as-system.md |
+| Ch 2 - Bones Don't Move Themselves | Complete | structures/bones-dont-move.md, structures/tensegrity.md |
+| Ch 3 - Fascial Bunching & Kinetic Chain | Complete | structures/fascial-bunching.md, structures/kinetic-chain.md, structures/joint-centration.md, case-studies/* |
+| Ch 4 - Pain Is an Encrypted Message | Complete | concepts/pain-as-signal.md, reference/pain-decision-tree.md |
+| Ch 5+ | Not yet added | — |
 
 ---
 

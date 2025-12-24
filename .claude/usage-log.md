@@ -67,6 +67,7 @@ Track command executions to measure usage and identify optimization opportunitie
 | Command | Date | Outcome | Notes |
 |---------|------|---------|-------|
 | /kb:reindex | 2025-12-23 | ✅ | Initial KB structure created |
+| /book:add-content | 2025-12-23 | ✅ | Preface + Ch1-4: 14 content files, 2 new folders (paradigm, structures) |
 
 **Outcome codes:** ✅ Success | ⚠️ Partial | ❌ Failed | 🔄 SIMILAR | 📤 EXTRACT
 

@@ -21,33 +21,74 @@ last_updated: "2025-12-23"
 |--------------------|----------|
 | Definition of a term | [GLOSSARY.md](GLOSSARY.md) |
 | How to do something | [FAQ.md](FAQ.md) → topic folder |
-| A specific protocol | [protocols/](protocols/) |
-| Real examples | [case-studies/](case-studies/) |
+| Book philosophy/paradigm | [paradigm/](paradigm/) |
+| Body structures/mechanics | [structures/](structures/) |
+| Core concepts | [concepts/](concepts/) |
+| Real clinical examples | [case-studies/](case-studies/) |
+| Decision trees/diagrams | [reference/](reference/) |
+| Step-by-step protocols | [protocols/](protocols/) |
 | Templates/worksheets | [templates/](templates/) |
 | Action checklists | [checklists/](checklists/) |
-| Research/references | [reference/](reference/) |
 
 ---
 
 ## Routing by Topic
 
-### Concepts & Philosophy
+### Philosophy & Paradigm
 
 | Topic | Indicators | Route To |
 |-------|------------|----------|
-| *Example* | *Keywords to match* | *[file.md](path)* |
+| Book philosophy | "You are light", energy/matter, healing paradigm | [you-are-light.md](paradigm/you-are-light.md) |
+| Medical system critique | Reductionism, why medicine fails, incomplete model | [reductionism-limits.md](paradigm/reductionism-limits.md) |
 
-### Protocols & Methods
-
-| Topic | Indicators | Route To |
-|-------|------------|----------|
-| *Example* | *Keywords to match* | *[file.md](path)* |
-
-### Conditions & Symptoms
+### Core Concepts
 
 | Topic | Indicators | Route To |
 |-------|------------|----------|
-| *Example* | *Keywords to match* | *[file.md](path)* |
+| Body as system | Complex adaptive system, interconnected systems | [body-as-system.md](concepts/body-as-system.md) |
+| Pain understanding | Pain as signal, encrypted message, neural event | [pain-as-signal.md](concepts/pain-as-signal.md) |
+
+### Body Structures & Mechanics
+
+| Topic | Indicators | Route To |
+|-------|------------|----------|
+| Tensegrity | Tension structure, bones as struts, stability | [tensegrity.md](structures/tensegrity.md) |
+| Bone mechanics | Bones passive, force over time, alignment | [bones-dont-move.md](structures/bones-dont-move.md) |
+| Fascia | Fascial web, bunching, force transmission | [fascial-bunching.md](structures/fascial-bunching.md) |
+| Movement chains | Kinetic chain, compensation, force flow | [kinetic-chain.md](structures/kinetic-chain.md) |
+| Joint positioning | Centration, decentration, joint stability | [joint-centration.md](structures/joint-centration.md) |
+
+### Case Studies
+
+| Topic | Indicators | Route To |
+|-------|------------|----------|
+| Knee pain, normal MRI | Foot mechanics, hip involvement | [case-perfect-mri-knee.md](case-studies/case-perfect-mri-knee.md) |
+| Frozen shoulder | Rib restriction, mechanical tether | [case-frozen-shoulder.md](case-studies/case-frozen-shoulder.md) |
+| Neck pain from ankle | Old injury, kinetic chain | [case-chronic-neck-pain.md](case-studies/case-chronic-neck-pain.md) |
+| Hip degeneration | Rotation, surgery avoidance | [case-bone-on-bone-hip.md](case-studies/case-bone-on-bone-hip.md) |
+| Strong athlete with pain | Timing vs. strength | [case-strong-broken-athlete.md](case-studies/case-strong-broken-athlete.md) |
+
+### Reference
+
+| Topic | Indicators | Route To |
+|-------|------------|----------|
+| Pain assessment | Decision tree, evaluation, tracing pain | [pain-decision-tree.md](reference/pain-decision-tree.md) |
+
+---
+
+## Routing by Question Type
+
+| Question Pattern | Route To |
+|------------------|----------|
+| "What is [term]?" | [GLOSSARY.md](GLOSSARY.md) |
+| "Why does pain...?" | [pain-as-signal.md](concepts/pain-as-signal.md) |
+| "How do systems connect?" | [body-as-system.md](concepts/body-as-system.md) |
+| "Why doesn't treatment hold?" | [bones-dont-move.md](structures/bones-dont-move.md) |
+| "What is fascia?" | [fascial-bunching.md](structures/fascial-bunching.md) |
+| "How does force travel?" | [kinetic-chain.md](structures/kinetic-chain.md) |
+| "Why is my joint off-center?" | [joint-centration.md](structures/joint-centration.md) |
+| "Show me an example of..." | [case-studies/](case-studies/) |
+| "How do I assess pain?" | [pain-decision-tree.md](reference/pain-decision-tree.md) |
 
 ---
 
@@ -55,29 +96,63 @@ last_updated: "2025-12-23"
 
 | Asset Type | Indicators | Route To |
 |------------|------------|----------|
-| **Template** | Fill-in-the-blank, [PATIENT NAME] | `/templates/` |
-| **Checklist** | Numbered steps, action list | `/checklists/` |
+| **Paradigm** | Philosophy, worldview, critique | `/paradigm/` |
+| **Concept** | Principle, theory, understanding | `/concepts/` |
+| **Structure** | Anatomy, mechanics, physical systems | `/structures/` |
+| **Case Study** | Patient story, clinical example | `/case-studies/` |
+| **Reference** | Diagram, decision tree, citation | `/reference/` |
 | **Protocol** | Step-by-step procedure | `/protocols/` |
-| **Case Study** | Patient story, example | `/case-studies/` |
-| **Conceptual** | Philosophy, principles | `/concepts/` |
-| **Reference** | Diagram, citation, reading | `/reference/` |
+| **Template** | Fill-in-the-blank guide | `/templates/` |
+| **Checklist** | Numbered steps, action list | `/checklists/` |
 
 ---
 
-## Routing by Phase
+## Routing by Chapter Source
 
-| Phase | Common Questions | Key Files |
-|-------|------------------|-----------|
-| *Assessment* | *How to evaluate?* | *[file.md](path)* |
-| *Treatment* | *What protocol?* | *[file.md](path)* |
-| *Maintenance* | *How to sustain?* | *[file.md](path)* |
+| Chapter | Primary Files |
+|---------|---------------|
+| Preface - You Are Light | [you-are-light.md](paradigm/you-are-light.md) |
+| Ch 1 - Why the System Can't See You | [reductionism-limits.md](paradigm/reductionism-limits.md), [body-as-system.md](concepts/body-as-system.md) |
+| Ch 2 - Bones Don't Move Themselves | [bones-dont-move.md](structures/bones-dont-move.md), [tensegrity.md](structures/tensegrity.md) |
+| Ch 3 - Fascial Bunching & Kinetic Chain | [fascial-bunching.md](structures/fascial-bunching.md), [kinetic-chain.md](structures/kinetic-chain.md), [joint-centration.md](structures/joint-centration.md), [case-studies/](case-studies/) |
+| Ch 4 - Pain Is an Encrypted Message | [pain-as-signal.md](concepts/pain-as-signal.md), [pain-decision-tree.md](reference/pain-decision-tree.md) |
+
+---
+
+## Cross-Reference Map
+
+### Starting from Pain
+```
+pain-as-signal.md
+    ├── pain-decision-tree.md (assessment)
+    ├── body-as-system.md (why multi-system)
+    ├── kinetic-chain.md (where pain shows vs. originates)
+    └── reductionism-limits.md (why imaging fails)
+```
+
+### Starting from Structure
+```
+tensegrity.md
+    ├── bones-dont-move.md (bones as struts)
+    ├── fascial-bunching.md (tension web)
+    └── joint-centration.md (joint in tension web)
+```
+
+### Starting from Clinical Question
+```
+case-studies/
+    ├── kinetic-chain.md (force flow)
+    ├── joint-centration.md (joint mechanics)
+    └── pain-as-signal.md (understanding symptoms)
+```
 
 ---
 
 ## Maintenance
 
 When adding new content:
-1. Add routing entry to appropriate table
+1. Add routing entry to appropriate table above
 2. Update [GLOSSARY.md](GLOSSARY.md) for new terms
 3. Update [FAQ.md](FAQ.md) for common questions
 4. Update [KB-INDEX.md](KB-INDEX.md) file counts
+5. Add to "Routing by Chapter Source" if from new chapter
