@@ -47,6 +47,8 @@ last_updated: "2025-12-23"
 |-------|------------|----------|
 | Body as system | Complex adaptive system, interconnected systems | [body-as-system.md](concepts/body-as-system.md) |
 | Pain understanding | Pain as signal, encrypted message, neural event | [pain-as-signal.md](concepts/pain-as-signal.md) |
+| Posture mechanics | Posture as program, motor memory, sensory input | [posture-as-program.md](concepts/posture-as-program.md) |
+| Behavior patterns | Behavior loops, habit formation, why patterns persist | [behavior-loops.md](concepts/behavior-loops.md) |
 
 ### Body Structures & Mechanics
 
@@ -87,6 +89,9 @@ last_updated: "2025-12-23"
 | "What is fascia?" | [fascial-bunching.md](structures/fascial-bunching.md) |
 | "How does force travel?" | [kinetic-chain.md](structures/kinetic-chain.md) |
 | "Why is my joint off-center?" | [joint-centration.md](structures/joint-centration.md) |
+| "Why can't I hold good posture?" | [posture-as-program.md](concepts/posture-as-program.md) |
+| "Why do patterns repeat?" | [behavior-loops.md](concepts/behavior-loops.md) |
+| "Why does trying harder fail?" | [behavior-loops.md](concepts/behavior-loops.md) |
 | "Show me an example of..." | [case-studies/](case-studies/) |
 | "How do I assess pain?" | [pain-decision-tree.md](reference/pain-decision-tree.md) |
 
@@ -116,6 +121,8 @@ last_updated: "2025-12-23"
 | Ch 2 - Bones Don't Move Themselves | [bones-dont-move.md](structures/bones-dont-move.md), [tensegrity.md](structures/tensegrity.md) |
 | Ch 3 - Fascial Bunching & Kinetic Chain | [fascial-bunching.md](structures/fascial-bunching.md), [kinetic-chain.md](structures/kinetic-chain.md), [joint-centration.md](structures/joint-centration.md), [case-studies/](case-studies/) |
 | Ch 4 - Pain Is an Encrypted Message | [pain-as-signal.md](concepts/pain-as-signal.md), [pain-decision-tree.md](reference/pain-decision-tree.md) |
+| Ch 5 - Posture Is a Nervous System Program | [posture-as-program.md](concepts/posture-as-program.md) |
+| Ch 6 - Behavior Loops | [behavior-loops.md](concepts/behavior-loops.md) |
 
 ---
 
@@ -127,7 +134,25 @@ pain-as-signal.md
     ├── pain-decision-tree.md (assessment)
     ├── body-as-system.md (why multi-system)
     ├── kinetic-chain.md (where pain shows vs. originates)
+    ├── behavior-loops.md (why pain becomes habit)
     └── reductionism-limits.md (why imaging fails)
+```
+
+### Starting from Posture/Movement
+```
+posture-as-program.md
+    ├── behavior-loops.md (why patterns persist)
+    ├── body-as-system.md (multi-system involvement)
+    ├── joint-centration.md (optimal positioning)
+    └── pain-as-signal.md (when posture causes pain)
+```
+
+### Starting from Behavior/Habits
+```
+behavior-loops.md
+    ├── posture-as-program.md (posture as automated program)
+    ├── pain-as-signal.md (pain as learned response)
+    └── body-as-system.md (system-wide patterns)
 ```
 
 ### Starting from Structure

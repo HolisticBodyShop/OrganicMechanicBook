@@ -1,13 +1,20 @@
 ---
 title: "Body as System"
 category: concepts
+tags:
+  - systems-thinking
+  - complexity
+  - integration
 source_chapter: "Chapter 1 - Why the System Can't See You"
 source_pages: [4-5]
 difficulty: intermediate
 related_files:
-  - paradigm/reductionism-limits.md
+  - paradigms/reductionism-limits.md
   - structures/tensegrity.md
   - structures/kinetic-chain.md
+  - concepts/pain-as-signal.md
+  - concepts/posture-as-program.md
+  - concepts/behavior-loops.md
 images:
   - path: images/posture-center-gravity.jpg
     alt: "Standing posture showing center of gravity alignment through body segments"
@@ -213,7 +220,12 @@ When you change one variable:
 
 ## See Also
 
-- [Reductionism Limits](../paradigm/reductionism-limits.md) - Why fragmented medicine fails
+### Nervous System Concepts
+- [Pain as Signal](pain-as-signal.md) - Understanding pain as system output
+- [Posture as Program](posture-as-program.md) - Posture as nervous system software
+- [Behavior Loops](behavior-loops.md) - How patterns form and persist
+
+### Related Structures & Paradigms
+- [Reductionism Limits](../paradigms/reductionism-limits.md) - Why fragmented medicine fails
 - [Tensegrity](../structures/tensegrity.md) - How the body maintains structural integrity
 - [Kinetic Chain](../structures/kinetic-chain.md) - How force travels through connected systems
-- [Pain as Signal](pain-as-signal.md) - Understanding pain as system output

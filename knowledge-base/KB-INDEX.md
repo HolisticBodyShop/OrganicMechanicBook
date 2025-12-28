@@ -2,7 +2,7 @@
 
 > **Purpose**: Universal routing layer for AI assistants (Claude Code, MCP servers, Claude Projects)
 > **Last Regenerated**: 2025-12-27
-> **Total Files**: 19 | **Total Size**: ~120 KB | **Total Lines**: ~3,500 | **Images**: 16
+> **Total Files**: 21 | **Total Size**: ~180 KB | **Total Lines**: ~5,000 | **Images**: 34
 
 ---
 
@@ -26,11 +26,11 @@
 |--------|------|-------|---------------|
 | **Foundation** | `knowledge-base/` | 5 | Index, navigation, glossary, FAQ, README |
 | **Paradigm** | `paradigm/` | 2 | Book philosophy, medical critique |
-| **Concepts** | `concepts/` | 2 | Body as system, pain understanding |
+| **Concepts** | `concepts/` | 4 | Body as system, pain, posture, behavior |
 | **Structures** | `structures/` | 5 | Tensegrity, fascia, kinetic chain, joints |
 | **Case Studies** | `case-studies/` | 5 | Clinical examples from Ch 3 |
 | **Reference** | `reference/` | 1 | Pain decision tree |
-| **Images** | `images/` | 16 | Anatomical diagrams, clinical illustrations |
+| **Images** | `images/` | 34 | Anatomical diagrams, clinical illustrations |
 | **Protocols** | `protocols/` | 0 | Step-by-step methods (future) |
 | **Templates** | `templates/` | 0 | Fill-in-the-blank guides (future) |
 | **Checklists** | `checklists/` | 0 | Action lists (future) |
@@ -45,6 +45,8 @@
 | "What is this book about?" | → [you-are-light.md](paradigm/you-are-light.md) |
 | "Why doesn't medicine help my pain?" | → [reductionism-limits.md](paradigm/reductionism-limits.md) |
 | "How does pain work?" | → [pain-as-signal.md](concepts/pain-as-signal.md) |
+| "Why can't I hold good posture?" | → [posture-as-program.md](concepts/posture-as-program.md) |
+| "Why do patterns repeat?" | → [behavior-loops.md](concepts/behavior-loops.md) |
 | "What does X term mean?" | → [GLOSSARY.md](GLOSSARY.md) |
 | "Show me a clinical example" | → [case-studies/](case-studies/) |
 | "How do I assess pain?" | → [pain-decision-tree.md](reference/pain-decision-tree.md) |
@@ -78,7 +80,9 @@
 | File | Source | Focus |
 |------|--------|-------|
 | [body-as-system.md](concepts/body-as-system.md) | Ch 1 | Complex adaptive systems |
-| [pain-as-signal.md](concepts/pain-as-signal.md) | Ch 4 | Pain as information |
+| [pain-as-signal.md](concepts/pain-as-signal.md) | Ch 4 | Pain as information, mechanotransduction |
+| [posture-as-program.md](concepts/posture-as-program.md) | Ch 5 | Posture as nervous system software |
+| [behavior-loops.md](concepts/behavior-loops.md) | Ch 6 | How the body learns, habit formation |
 
 ### structures/
 
@@ -126,6 +130,23 @@
 | motor-unit-diagram.jpg | Ch 3, p36 | pain-as-signal.md |
 | somatic-sensory-pathway.jpg | Ch 4, p38 | pain-as-signal.md |
 | descending-pain-modulatory-system.jpg | Ch 4, p41 | pain-as-signal.md |
+| tactile-receptors-skin.jpg | Ch 4, p43 | pain-as-signal.md |
+| trigger-points-referred-pain-map.jpg | Ch 4, p45 | pain-as-signal.md |
+| neuronal-plasticity-pain-pathway.jpg | Ch 4, p50 | pain-as-signal.md |
+| brain-anatomy-reticular-formation.jpg | Ch 5, p55 | posture-as-program.md |
+| muscle-spindle-golgi-reflex.jpg | Ch 5, p57 | posture-as-program.md |
+| vestibular-system-anatomy.jpg | Ch 5, p58 | posture-as-program.md |
+| upper-lower-crossed-syndrome.jpg | Ch 5, p59 | posture-as-program.md |
+| brain-regions-motor-memory.jpg | Ch 5, p62 | posture-as-program.md |
+| spinal-adjustment-comparison.jpg | Ch 5, p65 | posture-as-program.md |
+| lumbar-facet-joint-dysfunction.jpg | Ch 5, p67 | posture-as-program.md |
+| habit-formation-neural-networks.jpg | Ch 6, p70 | behavior-loops.md |
+| habit-loop-cue-routine-reward.jpg | Ch 6, p71 | behavior-loops.md |
+| chronic-pain-cycle-diagram.jpg | Ch 6, p72 | pain-as-signal.md |
+| habit-loop-simple-diagram.jpg | Ch 6, p73 | behavior-loops.md |
+| corticospinal-tract-pathway.jpg | Ch 6, p75 | behavior-loops.md |
+| amygdala-prefrontal-cortex-safety.jpg | Ch 6, p80 | behavior-loops.md |
+| seven-movement-patterns.jpg | Ch 6, p82 | behavior-loops.md |
 
 ---
 
@@ -138,7 +159,9 @@
 | Ch 2 - Bones Don't Move Themselves | Complete | structures/bones-dont-move.md, structures/tensegrity.md |
 | Ch 3 - Fascial Bunching & Kinetic Chain | Complete | structures/fascial-bunching.md, structures/kinetic-chain.md, structures/joint-centration.md, case-studies/* |
 | Ch 4 - Pain Is an Encrypted Message | Complete | concepts/pain-as-signal.md, reference/pain-decision-tree.md |
-| Ch 5+ | Not yet added | — |
+| Ch 5 - Posture Is a Nervous System Program | Complete | concepts/posture-as-program.md |
+| Ch 6 - Behavior Loops | Complete | concepts/behavior-loops.md |
+| Ch 7+ | Not yet added | — |
 
 ---
 
