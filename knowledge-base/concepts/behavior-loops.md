@@ -199,18 +199,25 @@ Before any loop updates, the nervous system asks one question:
 *Seven fundamental movement patterns: squat, hip hinge, lunge, push, pull, twist, gait—all learned through repetition.*
 *(Source: Chapter 6 - Behavior Loops, Page 82)*
 
+> **Key Insight**: Loops do not change through willpower. They change through **prediction error**.
+
 Loops update when the nervous system accepts a new pattern as **safe and efficient**.
 
-### Requirements for Loop Rewriting:
+### Loop Rewrite Conditions:
 
-| Requirement | Why It Matters |
-|-------------|----------------|
-| Safety established | Threat perception must drop |
-| Success repeated | New pattern must work |
-| Energy acceptable | Must not cost too much |
-| Context stable | Environment must feel predictable |
+| Condition | What Happens |
+|-----------|--------------|
+| 1. New input introduced | Different sensory information |
+| 2. Movement succeeds without danger | No threat detected |
+| 3. Pain does not occur | Expected pain doesn't materialize |
+| 4. Energy cost decreases | New pattern is more efficient |
+| 5. Repetition confirms safety | Consistency builds confidence |
 
 ### The Rewrite Sequence:
+
+```
+Old loop → fails to predict outcome → nervous system updates model → new loop installs
+```
 
 ```
 New input → successful outcome → repeated success → safety confirmed → automation
@@ -241,18 +248,20 @@ New input → successful outcome → repeated success → safety confirmed → a
 
 ---
 
-## Why Relapse Happens
+## Why Relapse Happens (Incomplete Loop Closure)
 
-Relapse is not failure. It is **loop protection**.
+Relapse is not failure. It is **loop protection** and **data**.
 
 ### Triggers for Loop Reactivation:
 
 | Trigger | What Happens |
 |---------|--------------|
-| Stress | Old safety patterns activate |
-| Fatigue | Energy conservation kicks in |
+| Stress increases | Threat perception rises |
+| Fatigue accumulates | Energy conservation kicks in |
+| Environment changes | Context triggers old patterns |
 | Injury | Protective patterns return |
-| Context | Environment triggers old loops |
+
+The nervous system may temporarily revert to old loops.
 
 ### The Path Back:
 
@@ -260,7 +269,20 @@ Relapse is not failure. It is **loop protection**.
 Stressor → threat detected → old loop activated → "relapse"
 ```
 
-**This is the system working correctly—just not how you want.**
+**This is not failure. It is data.**
+
+> "Old loops fade through disuse, not force."
+
+### The Golden Rule of Behavior Change
+
+**You don't break habits. You replace them with better predictions.**
+
+The body chooses the loop that:
+- Feels safest
+- Costs the least
+- Works the fastest
+
+Your job is not discipline. Your job is **engineering better outcomes**.
 
 ---
 

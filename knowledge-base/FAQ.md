@@ -24,6 +24,9 @@ last_updated: "2025-12-23"
 | What is fascia? | Load-sharing network, not packaging | [fascial-bunching.md](structures/fascial-bunching.md) |
 | Why does pain move around? | System rebalancing force | [kinetic-chain.md](structures/kinetic-chain.md) |
 | Why is stretching not helping? | Tight muscles may be stabilizing | [bones-dont-move.md](structures/bones-dont-move.md) |
+| Why does change take so long? | Neuronal wiring changes slowly | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
+| How does light therapy work? | Mitochondrial optimization via cytochrome c oxidase | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| When is frequency treatment too much? | Fatigue, headache, pain flares = signals to reduce | [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
 
 ---
 
@@ -107,6 +110,24 @@ Use the **pain decision tree**: (1) Is there acute damage? (2) Is force being mi
 
 ## Treatment Questions
 
+### Q: Why does healing take so long even when I feel better initially?
+
+**Awareness changes instantly; neuronal wiring changes slowly.** The nervous system needs weeks to months of safe repetition to physically rebuild synapses and myelination. Fast relief opens the door, but repetition walks through it.
+
+**See**: [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md)
+
+### Q: How does light therapy (photobiomodulation) actually work?
+
+Light in the red/near-infrared spectrum is absorbed by **cytochrome c oxidase** in mitochondria, increasing ATP production and improving cellular signaling. This creates conditions for neuroplasticity but doesn't replace repetition.
+
+**See**: [photobiomodulation.md](concepts/photobiomodulation.md)
+
+### Q: How do I know if I'm getting too much frequency treatment?
+
+Warning signs include: fatigue, headache, irritability, dizziness, pain flares, and sleep disruption. These mean **the system received too much information too fast**. Reduce dose or frequency of sessions.
+
+**See**: [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md)
+
 ### Q: Why isn't stretching helping my tight muscles?
 
 Muscles become tight **for reasons**: to stabilize unstable joints, compensate for weak muscles, or protect vulnerable tissues. Stretching a stabilizer makes the joint less stable, and the nervous system tightens something else.
@@ -164,6 +185,11 @@ The body is intelligent and adaptive. Pain is meaningful information. Structure 
 - Chapter 2: Bones Don't Move Themselves
 - Chapter 3: Fascial Bunching & the Kinetic Chain
 - Chapter 4: Pain Is an Encrypted Message
+- Chapter 5: Posture Is a Nervous System Program
+- Chapter 6: Behavior Loops
+- Chapter 7: Re-Coding Motor Neurons
+- Chapter 8: Frequency Breakdown
+- Chapter 9: Guardrails
 
 **See**: [NAVIGATION.md](NAVIGATION.md) for routing by chapter
 

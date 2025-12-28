@@ -2,7 +2,7 @@
 
 > **Purpose**: Universal routing layer for AI assistants (Claude Code, MCP servers, Claude Projects)
 > **Last Regenerated**: 2025-12-27
-> **Total Files**: 21 | **Total Size**: ~180 KB | **Total Lines**: ~5,000 | **Images**: 34
+> **Total Files**: 24 | **Total Size**: ~220 KB | **Total Lines**: ~6,500 | **Images**: 61
 
 ---
 
@@ -17,6 +17,7 @@
 | Common Questions | [FAQ.md](FAQ.md) | Linked detail files |
 | Case Studies | [case-studies/](case-studies/) | [concepts/](concepts/) |
 | Decision Trees | [reference/](reference/) | [concepts/](concepts/) |
+| Treatment Protocols | [protocols/](protocols/) | [concepts/](concepts/) |
 
 ---
 
@@ -26,12 +27,12 @@
 |--------|------|-------|---------------|
 | **Foundation** | `knowledge-base/` | 5 | Index, navigation, glossary, FAQ, README |
 | **Paradigm** | `paradigm/` | 2 | Book philosophy, medical critique |
-| **Concepts** | `concepts/` | 4 | Body as system, pain, posture, behavior |
+| **Concepts** | `concepts/` | 6 | Body as system, pain, posture, behavior, neurons, frequency |
 | **Structures** | `structures/` | 5 | Tensegrity, fascia, kinetic chain, joints |
 | **Case Studies** | `case-studies/` | 5 | Clinical examples from Ch 3 |
 | **Reference** | `reference/` | 1 | Pain decision tree |
-| **Images** | `images/` | 34 | Anatomical diagrams, clinical illustrations |
-| **Protocols** | `protocols/` | 0 | Step-by-step methods (future) |
+| **Images** | `images/` | 61 | Anatomical diagrams, clinical illustrations |
+| **Protocols** | `protocols/` | 1 | Frequency safety guardrails |
 | **Templates** | `templates/` | 0 | Fill-in-the-blank guides (future) |
 | **Checklists** | `checklists/` | 0 | Action lists (future) |
 | **Data** | `data/` | 0 | Logs, tracking |
@@ -47,6 +48,9 @@
 | "How does pain work?" | → [pain-as-signal.md](concepts/pain-as-signal.md) |
 | "Why can't I hold good posture?" | → [posture-as-program.md](concepts/posture-as-program.md) |
 | "Why do patterns repeat?" | → [behavior-loops.md](concepts/behavior-loops.md) |
+| "Why does change take so long?" | → [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
+| "How does light therapy work?" | → [photobiomodulation.md](concepts/photobiomodulation.md) |
+| "Is frequency treatment safe?" | → [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
 | "What does X term mean?" | → [GLOSSARY.md](GLOSSARY.md) |
 | "Show me a clinical example" | → [case-studies/](case-studies/) |
 | "How do I assess pain?" | → [pain-decision-tree.md](reference/pain-decision-tree.md) |
@@ -83,6 +87,8 @@
 | [pain-as-signal.md](concepts/pain-as-signal.md) | Ch 4 | Pain as information, mechanotransduction |
 | [posture-as-program.md](concepts/posture-as-program.md) | Ch 5 | Posture as nervous system software |
 | [behavior-loops.md](concepts/behavior-loops.md) | Ch 6 | How the body learns, habit formation |
+| [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) | Ch 7 | Neuroplasticity, why change takes time |
+| [photobiomodulation.md](concepts/photobiomodulation.md) | Ch 8 | Light therapy, frequency principles |
 
 ### structures/
 
@@ -109,6 +115,12 @@
 | File | Purpose |
 |------|---------|
 | [pain-decision-tree.md](reference/pain-decision-tree.md) | Systematic pain assessment |
+
+### protocols/
+
+| File | Source | Focus |
+|------|--------|-------|
+| [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) | Ch 9 | Safety limits for frequency treatment |
 
 ### images/
 
@@ -147,6 +159,31 @@
 | corticospinal-tract-pathway.jpg | Ch 6, p75 | behavior-loops.md |
 | amygdala-prefrontal-cortex-safety.jpg | Ch 6, p80 | behavior-loops.md |
 | seven-movement-patterns.jpg | Ch 6, p82 | behavior-loops.md |
+| prediction-error-motor-learning.jpg | Ch 6, p84 | behavior-loops.md |
+| reinforcement-learning-loop.jpg | Ch 6, p85 | behavior-loops.md |
+| lower-back-pain-management-cycle.jpg | Ch 6, p86 | behavior-loops.md |
+| breaking-pain-cycle-diagram.jpg | Ch 6, p87 | behavior-loops.md |
+| neural-inflammation-amplifier.jpg | Ch 6, p88 | behavior-loops.md |
+| neuron-structure-anatomy.jpg | Ch 7, p90 | motor-neuron-recoding.md |
+| somatic-nervous-system-diagram.jpg | Ch 7, p92 | motor-neuron-recoding.md |
+| motor-homunculus-cortex.jpg | Ch 7, p94 | motor-neuron-recoding.md |
+| synaptic-potentiation-ltp.jpg | Ch 7, p96 | motor-neuron-recoding.md |
+| neuromuscular-junction-synapse.jpg | Ch 7, p97 | motor-neuron-recoding.md |
+| motor-learning-procedural-memory.jpg | Ch 7, p98 | motor-neuron-recoding.md |
+| spinothalamic-tract-pathway.jpg | Ch 7, p99 | motor-neuron-recoding.md |
+| neural-coherence-measurement.jpg | Ch 7, p100 | motor-neuron-recoding.md |
+| arndt-schulz-dose-response.jpg | Ch 8, p102 | photobiomodulation.md |
+| cytochrome-c-oxidase-membrane.jpg | Ch 8, p104 | photobiomodulation.md |
+| electron-transport-chain-mitochondria.jpg | Ch 8, p106 | photobiomodulation.md |
+| brainwave-frequencies-chart.jpg | Ch 8, p108 | photobiomodulation.md |
+| brain-network-modeling.jpg | Ch 8, p110 | photobiomodulation.md |
+| basal-ganglia-habitual-control.jpg | Ch 8, p112 | photobiomodulation.md |
+| sensory-motor-reflex-arc.jpg | Ch 9, p114 | frequency-safety-guardrails.md |
+| autonomic-nervous-system-divisions.jpg | Ch 9, p115 | frequency-safety-guardrails.md |
+| hormesis-dose-response-curve.jpg | Ch 9, p118 | frequency-safety-guardrails.md |
+| postural-compensation-patterns.jpg | Ch 9, p119 | frequency-safety-guardrails.md |
+| cervical-instability-symptoms.jpg | Ch 9, p122 | frequency-safety-guardrails.md |
+| photobiomodulation-clinical-applications.jpg | Ch 9, p122 | frequency-safety-guardrails.md |
 
 ---
 
@@ -161,7 +198,10 @@
 | Ch 4 - Pain Is an Encrypted Message | Complete | concepts/pain-as-signal.md, reference/pain-decision-tree.md |
 | Ch 5 - Posture Is a Nervous System Program | Complete | concepts/posture-as-program.md |
 | Ch 6 - Behavior Loops | Complete | concepts/behavior-loops.md |
-| Ch 7+ | Not yet added | — |
+| Ch 7 - Re-Coding Motor Neurons | Complete | concepts/motor-neuron-recoding.md |
+| Ch 8 - Frequency Breakdown | Complete | concepts/photobiomodulation.md |
+| Ch 9 - Guardrails | Complete | protocols/frequency-safety-guardrails.md |
+| Ch 10+ | Not yet added | — |
 
 ---
 

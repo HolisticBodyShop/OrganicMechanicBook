@@ -32,10 +32,19 @@ last_updated: "2025-12-23"
 | Reductionism | Breaking systems into parts; powerful but limited | [reductionism-limits.md](paradigms/reductionism-limits.md) |
 | Safety Gate | NS checkpoint before allowing pattern change | [behavior-loops.md](concepts/behavior-loops.md) |
 | Tensegrity | Stability through continuous tension | [tensegrity.md](structures/tensegrity.md) |
+| Motor Neuron Recoding | Neuronal wiring changes slowly (weeks-months) | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
+| Photobiomodulation | Light-based mitochondrial optimization | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| Arndt-Schulz Law | Biphasic dose-response (more is not better) | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| Cytochrome c Oxidase | Primary cellular target of light therapy | [photobiomodulation.md](concepts/photobiomodulation.md) |
 
 ---
 
 ## A
+
+### Arndt-Schulz Law
+The biphasic dose-response relationship: too little stimulus has no effect, optimal stimulus produces positive response, too much stimulus inhibits or damages. Applies to light therapy, exercise, medications.
+
+**See**: [photobiomodulation.md](concepts/photobiomodulation.md), [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md)
 
 ### Allodynia
 Pain from stimuli that are not normally painful. A sign of central sensitization.
@@ -74,6 +83,11 @@ Application of tensegrity principles to biological structures. The body maintain
 Condition where the central nervous system amplifies pain signals. Pain persists even after tissue healing because signal pathways remain altered.
 
 **See**: [pain-as-signal.md](concepts/pain-as-signal.md), [pain-decision-tree.md](reference/pain-decision-tree.md)
+
+### Cytochrome c Oxidase (CCO)
+Complex IV of the mitochondrial electron transport chain. Primary cellular target of photobiomodulation. Absorbs red/near-infrared light, increasing ATP production.
+
+**See**: [photobiomodulation.md](concepts/photobiomodulation.md)
 
 ### Complex Adaptive System
 A network of interacting subsystems that influence each other continuously. The human body is a complex adaptive system.
@@ -170,6 +184,11 @@ The interconnected series of joints, muscles, fascia, and nerves that work toget
 
 ## M
 
+### Motor Neuron Recoding
+The process by which motor neurons physically change their wiring to support new movement patterns. Requires weeks to months of repetition under safety. Awareness changes instantly; neuronal wiring changes slowly.
+
+**See**: [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md)
+
 ### Mechanoreceptor
 Sensory receptor that converts mechanical stimuli (pressure, stretch) into electrical signals.
 
@@ -194,6 +213,11 @@ The sequence in which muscles are activated for a movement. Timing often matters
 
 ## N
 
+### Neuroplasticity
+The ability of neurons to physically change their structure and connections. Requires synaptic strengthening, dendritic spine growth, and myelination. The biological basis of motor learning.
+
+**See**: [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md)
+
 ### Neural Sensitization
 Changes in nerve sensitivity that lower the threshold for pain signals. Can persist after tissue healing.
 
@@ -211,6 +235,11 @@ Sensory receptor that responds to potentially damaging stimuli. Converts input t
 ---
 
 ## P
+
+### Photobiomodulation (PBM)
+The use of red and near-infrared light to modulate cellular function, primarily through cytochrome c oxidase. Creates conditions for neuroplasticity without replacing repetition.
+
+**See**: [photobiomodulation.md](concepts/photobiomodulation.md)
 
 ### Pain Encryption
 Model describing how original pain signals become obscured through multiple layers: mechanical distortion → fascial adaptation → neural modulation → brain interpretation. Treating pain at layer 4 ignores layers 1-3.

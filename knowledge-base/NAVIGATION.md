@@ -49,6 +49,8 @@ last_updated: "2025-12-23"
 | Pain understanding | Pain as signal, encrypted message, neural event | [pain-as-signal.md](concepts/pain-as-signal.md) |
 | Posture mechanics | Posture as program, motor memory, sensory input | [posture-as-program.md](concepts/posture-as-program.md) |
 | Behavior patterns | Behavior loops, habit formation, why patterns persist | [behavior-loops.md](concepts/behavior-loops.md) |
+| Motor neuron change | Why change takes time, neuroplasticity, timelines | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
+| Light/frequency therapy | Photobiomodulation, Hz effects, mitochondria | [photobiomodulation.md](concepts/photobiomodulation.md) |
 
 ### Body Structures & Mechanics
 
@@ -76,6 +78,12 @@ last_updated: "2025-12-23"
 |-------|------------|----------|
 | Pain assessment | Decision tree, evaluation, tracing pain | [pain-decision-tree.md](reference/pain-decision-tree.md) |
 
+### Protocols
+
+| Topic | Indicators | Route To |
+|-------|------------|----------|
+| Frequency safety | When to stop, red flags, dose limits | [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
+
 ---
 
 ## Routing by Question Type
@@ -94,6 +102,10 @@ last_updated: "2025-12-23"
 | "Why does trying harder fail?" | [behavior-loops.md](concepts/behavior-loops.md) |
 | "Show me an example of..." | [case-studies/](case-studies/) |
 | "How do I assess pain?" | [pain-decision-tree.md](reference/pain-decision-tree.md) |
+| "Why does change take time?" | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
+| "How does light therapy work?" | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| "When should I stop treatment?" | [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
+| "What is the Arndt-Schulz law?" | [photobiomodulation.md](concepts/photobiomodulation.md) |
 
 ---
 
@@ -123,6 +135,9 @@ last_updated: "2025-12-23"
 | Ch 4 - Pain Is an Encrypted Message | [pain-as-signal.md](concepts/pain-as-signal.md), [pain-decision-tree.md](reference/pain-decision-tree.md) |
 | Ch 5 - Posture Is a Nervous System Program | [posture-as-program.md](concepts/posture-as-program.md) |
 | Ch 6 - Behavior Loops | [behavior-loops.md](concepts/behavior-loops.md) |
+| Ch 7 - Re-Coding Motor Neurons | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
+| Ch 8 - Frequency Breakdown | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| Ch 9 - Guardrails | [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
 
 ---
 
