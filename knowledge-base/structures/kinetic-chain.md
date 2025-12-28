@@ -8,7 +8,18 @@ related_files:
   - structures/fascial-bunching.md
   - structures/tensegrity.md
   - concepts/body-as-system.md
-last_updated: "2025-12-23"
+images:
+  - path: images/kinetic-chain-diagram.jpg
+    alt: "Kinetic chain diagram showing connected joints from cervical spine to ankle"
+    caption: "The kinetic chain connects cervical spine, thoracic spine, lumbar spine, hip joints, knee joints, and ankle joints"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 23
+  - path: images/myofascial-lines-seven-views.jpg
+    alt: "Seven skeletal views showing myofascial continuity"
+    caption: "Multiple anatomical views demonstrating continuous fascial connections through the body"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 24
+last_updated: "2025-12-27"
 ---
 
 # Kinetic Chain
@@ -30,6 +41,10 @@ last_updated: "2025-12-23"
 ---
 
 ## What Is a Kinetic Chain?
+
+![Kinetic Chain Diagram](../images/kinetic-chain-diagram.jpg)
+*The kinetic chain connects cervical spine, thoracic spine, lumbar spine, hip joints, knee joints, and ankle joints.*
+*(Source: Chapter 3 - Fascial Bunching & the Kinetic Chain, Page 23)*
 
 A kinetic chain is the interconnected series of:
 - Joints

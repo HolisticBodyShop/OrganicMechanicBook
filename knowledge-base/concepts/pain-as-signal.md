@@ -8,7 +8,28 @@ related_files:
   - paradigm/reductionism-limits.md
   - concepts/body-as-system.md
   - reference/pain-decision-tree.md
-last_updated: "2025-12-23"
+images:
+  - path: images/somatic-sensory-pathway.jpg
+    alt: "Somatic sensory pathway from skin to sensory cortex"
+    caption: "Pain signal pathway from peripheral sensory neurons through spinal cord to brain"
+    source_chapter: "Chapter 4 - Pain Is an Encrypted Message"
+    source_page: 38
+  - path: images/descending-pain-modulatory-system.jpg
+    alt: "Descending pain modulatory system showing brain regions and pathways"
+    caption: "The descending pain modulatory system shows how the brain can amplify or inhibit pain signals"
+    source_chapter: "Chapter 4 - Pain Is an Encrypted Message"
+    source_page: 41
+  - path: images/spinal-reflex-arc.jpg
+    alt: "Spinal cord reflex arc with motor and sensory neurons"
+    caption: "Spinal reflex arc showing sensory input and motor output through muscle spindles and Golgi tendon organs"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 35
+  - path: images/motor-unit-diagram.jpg
+    alt: "Motor unit showing neuron, axon, and muscle fibers"
+    caption: "Motor unit anatomy: dendrites collect signals, axon passes signals to muscle fibers via neuromuscular junction"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 36
+last_updated: "2025-12-27"
 ---
 
 # Pain as Signal
@@ -30,6 +51,10 @@ last_updated: "2025-12-23"
 ---
 
 ## Pain Signal Flow
+
+![Somatic Sensory Pathway](../images/somatic-sensory-pathway.jpg)
+*Pain signal pathway from peripheral sensory neurons through spinal cord segment to medulla oblongata and sensory cortex.*
+*(Source: Chapter 4 - Pain Is an Encrypted Message, Page 38)*
 
 ```
 Mechanical / Chemical / Thermal Input
@@ -112,6 +137,10 @@ These convert input into **electrical signals** interpreted by spinal cord and b
 ---
 
 ## Central Sensitization
+
+![Descending Pain Modulatory System](../images/descending-pain-modulatory-system.jpg)
+*The descending pain modulatory system shows how the brain can amplify or inhibit pain signals through pathways from cortex through midbrain and medulla to spinal cord.*
+*(Source: Chapter 4 - Pain Is an Encrypted Message, Page 41)*
 
 When the nervous system becomes "wound up":
 

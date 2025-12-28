@@ -11,6 +11,67 @@ If no content attached, respond:
 
 ---
 
+### Step 0.5: Extract Images from PDF (if applicable)
+
+**When processing PDF files with images:**
+
+1. **Ask about page offset for multi-part PDFs:**
+   - If this is Part 2, 3, etc., ask: "What book page does this PDF start on?"
+   - Calculate: `book_page = pdf_page + offset`
+   - Example: Part 2 PDF page 5, offset 41 → book page 46
+
+2. **List images in PDF:**
+   ```bash
+   pdfimages -list /path/to/file.pdf
+   ```
+
+3. **Extract images to knowledge-base/images/:**
+   ```bash
+   pdfimages -j /path/to/file.pdf knowledge-base/images/extract
+   ```
+
+4. **Clean up extracted files:**
+   - Remove `.ppm` files (masks/duplicates): `rm knowledge-base/images/*.ppm`
+   - Remove small files under 10KB (likely icons)
+   - View images to identify content before renaming
+
+5. **Rename with descriptive names:**
+   - Use lowercase, hyphenated names describing the content
+   - Examples: `biotensegrity-human-model.jpg`, `kinetic-chain-diagram.jpg`
+
+6. **Document image in the target markdown file:**
+
+   **In YAML frontmatter:**
+   ```yaml
+   images:
+     - path: images/descriptive-name.jpg
+       alt: "Brief description for accessibility"
+       caption: "Detailed caption for the image"
+       source_chapter: "Chapter X - Title"
+       source_page: 42
+   ```
+
+   **In body text (at relevant section):**
+   ```markdown
+   ![Alt Text](../images/descriptive-name.jpg)
+   *Caption describing what the image shows.*
+   *(Source: Chapter X - Title, Page 42)*
+   ```
+
+7. **Image naming conventions:**
+   | Content Type | Naming Pattern | Example |
+   |--------------|----------------|---------|
+   | Anatomy diagrams | `[structure]-[detail].jpg` | `myofascial-lines-four-anatomy-views.jpg` |
+   | Comparison images | `[topic]-comparison.jpg` | `joint-centration-comparison.jpg` |
+   | Process diagrams | `[process]-[type].jpg` | `muscle-contraction-cascade.jpg` |
+   | Body region | `[region]-[view].jpg` | `shoulder-anatomy-diagram.jpg` |
+
+8. **Expected image sizes:** Typical range 23KB - 250KB. Larger images (>200KB) are usually full-page diagrams.
+
+**Note:** Requires `poppler` package. Install with `brew install poppler` if not available.
+
+---
+
 ### Step 1: Quality Gate
 
 **Run in parallel:**
@@ -107,6 +168,8 @@ If no content attached, respond:
 - [ ] DRY pattern enforced
 - [ ] Foundation files updated
 - [ ] Bidirectional cross-links added
+- [ ] Images extracted and linked (if PDF had images)
+- [ ] Image sources documented (chapter + page)
 
 ---
 

@@ -8,7 +8,18 @@ related_files:
   - structures/bones-dont-move.md
   - structures/fascial-bunching.md
   - concepts/body-as-system.md
-last_updated: "2025-12-23"
+images:
+  - path: images/biotensegrity-human-model.jpg
+    alt: "Physical tensegrity model of human body showing compression struts and tension elements"
+    caption: "Biotensegrity human model demonstrating how bones (struts) float in continuous tension network"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 16
+  - path: images/myofascial-lines-four-anatomy-views.jpg
+    alt: "Four myofascial lines anatomy diagram"
+    caption: "Superficial Front, Superficial Back, Lateral, and Deep Front Lines"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 17
+last_updated: "2025-12-27"
 ---
 
 # Tensegrity
@@ -44,6 +55,10 @@ last_updated: "2025-12-23"
 ---
 
 ## Biotensegrity: The Body as Tension Structure
+
+![Biotensegrity Human Model](../images/biotensegrity-human-model.jpg)
+*Physical tensegrity model demonstrating how bones (compression struts) float within a continuous tension network of elastic elements representing muscles and fascia.*
+*(Source: Chapter 3 - Fascial Bunching & the Kinetic Chain, Page 16)*
 
 ### Components in the Body
 
@@ -135,6 +150,10 @@ System finds new equilibrium
 ---
 
 ## The Myofascial Tensegrity Network
+
+![Myofascial Lines - Four Anatomy Views](../images/myofascial-lines-four-anatomy-views.jpg)
+*Four primary myofascial lines: Superficial Front Line, Superficial Back Line, Lateral Line, and Deep Front Line. These continuous tension pathways demonstrate how force transmits through the body's biotensegrity structure.*
+*(Source: Test PDF, Page 1)*
 
 ### Continuous Tension Elements
 

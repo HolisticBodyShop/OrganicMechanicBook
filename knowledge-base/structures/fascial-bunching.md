@@ -8,7 +8,28 @@ related_files:
   - structures/tensegrity.md
   - structures/kinetic-chain.md
   - structures/bones-dont-move.md
-last_updated: "2025-12-23"
+images:
+  - path: images/anatomy-trains-functional-lines.jpg
+    alt: "Anatomy Trains functional lines showing myofascial tracks and bony stations"
+    caption: "The Functional Lines showing front, back, and ipsilateral myofascial tracks with their bony stations"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 19
+  - path: images/spiral-line-anterior-posterior.jpg
+    alt: "Spiral Line showing anterior and posterior views"
+    caption: "The Spiral Line wraps around the body, demonstrating rotational force transmission through fascia"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 20
+  - path: images/superficial-back-line-views.jpg
+    alt: "Superficial Back Line in multiple views"
+    caption: "The Superficial Back Line runs from heel to skull along the posterior body"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 21
+  - path: images/oblique-slings-three-views.jpg
+    alt: "Anterior Oblique Sling, Posterior Oblique Sling, and Deep Longitudinal Sling"
+    caption: "Three myofascial slings that transmit force diagonally through the body during movement"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 27
+last_updated: "2025-12-27"
 ---
 
 # Fascial Bunching
@@ -121,6 +142,10 @@ Because fascia forms a continuous web:
 
 ## Fascial Lines (Anatomy Trains)
 
+![Anatomy Trains Functional Lines](../images/anatomy-trains-functional-lines.jpg)
+*The Functional Lines showing front, back, and ipsilateral myofascial tracks with their bony stations.*
+*(Source: Chapter 3 - Fascial Bunching & the Kinetic Chain, Page 19)*
+
 ### Major Lines
 
 | Line | Path | Function |
@@ -143,6 +168,10 @@ Force travels along these lines—restriction anywhere affects the whole line.
 ---
 
 ## Spiral Mechanics: The Hidden Distorter
+
+![Spiral Line Anterior and Posterior Views](../images/spiral-line-anterior-posterior.jpg)
+*The Spiral Line wraps around the body in a helical pattern, demonstrating rotational force transmission through fascia.*
+*(Source: Chapter 3 - Fascial Bunching & the Kinetic Chain, Page 20)*
 
 Human movement is spiral-based:
 - Walking

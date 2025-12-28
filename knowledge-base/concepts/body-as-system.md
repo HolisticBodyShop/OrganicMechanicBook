@@ -8,7 +8,13 @@ related_files:
   - paradigm/reductionism-limits.md
   - structures/tensegrity.md
   - structures/kinetic-chain.md
-last_updated: "2025-12-23"
+images:
+  - path: images/posture-center-gravity.jpg
+    alt: "Standing posture showing center of gravity alignment through body segments"
+    caption: "Proper postural alignment with center of gravity passing through aligned body segments"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 26
+last_updated: "2025-12-27"
 ---
 
 # Body as System
@@ -32,6 +38,10 @@ last_updated: "2025-12-23"
 ---
 
 ## The Cascade of Interaction
+
+![Posture and Center of Gravity](../images/posture-center-gravity.jpg)
+*Proper postural alignment with center of gravity passing through aligned body segments demonstrates system-wide coherence.*
+*(Source: Chapter 3 - Fascial Bunching & the Kinetic Chain, Page 26)*
 
 Each system influences the others continuously:
 

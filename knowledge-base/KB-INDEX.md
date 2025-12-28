@@ -1,8 +1,8 @@
 # Knowledge Base Index
 
 > **Purpose**: Universal routing layer for AI assistants (Claude Code, MCP servers, Claude Projects)
-> **Last Regenerated**: 2025-12-23
-> **Total Files**: 19 | **Total Size**: ~120 KB | **Total Lines**: ~3,500
+> **Last Regenerated**: 2025-12-27
+> **Total Files**: 19 | **Total Size**: ~120 KB | **Total Lines**: ~3,500 | **Images**: 16
 
 ---
 
@@ -30,6 +30,7 @@
 | **Structures** | `structures/` | 5 | Tensegrity, fascia, kinetic chain, joints |
 | **Case Studies** | `case-studies/` | 5 | Clinical examples from Ch 3 |
 | **Reference** | `reference/` | 1 | Pain decision tree |
+| **Images** | `images/` | 16 | Anatomical diagrams, clinical illustrations |
 | **Protocols** | `protocols/` | 0 | Step-by-step methods (future) |
 | **Templates** | `templates/` | 0 | Fill-in-the-blank guides (future) |
 | **Checklists** | `checklists/` | 0 | Action lists (future) |
@@ -104,6 +105,27 @@
 | File | Purpose |
 |------|---------|
 | [pain-decision-tree.md](reference/pain-decision-tree.md) | Systematic pain assessment |
+
+### images/
+
+| Image | Source | Used In |
+|-------|--------|---------|
+| biotensegrity-human-model.jpg | Ch 3, p16 | tensegrity.md |
+| myofascial-lines-four-anatomy-views.jpg | Ch 3, p17 | tensegrity.md |
+| anatomy-trains-functional-lines.jpg | Ch 3, p19 | fascial-bunching.md |
+| spiral-line-anterior-posterior.jpg | Ch 3, p20 | fascial-bunching.md |
+| superficial-back-line-views.jpg | Ch 3, p21 | fascial-bunching.md |
+| kinetic-chain-diagram.jpg | Ch 3, p23 | kinetic-chain.md |
+| myofascial-lines-seven-views.jpg | Ch 3, p24 | kinetic-chain.md |
+| posture-center-gravity.jpg | Ch 3, p26 | body-as-system.md |
+| oblique-slings-three-views.jpg | Ch 3, p27 | fascial-bunching.md |
+| joint-centration-comparison.jpg | Ch 3, p28 | joint-centration.md |
+| shoulder-anatomy-diagram.jpg | Ch 3, p29 | joint-centration.md |
+| muscle-contraction-cascade.jpg | Ch 3, p34 | bones-dont-move.md |
+| spinal-reflex-arc.jpg | Ch 3, p35 | pain-as-signal.md |
+| motor-unit-diagram.jpg | Ch 3, p36 | pain-as-signal.md |
+| somatic-sensory-pathway.jpg | Ch 4, p38 | pain-as-signal.md |
+| descending-pain-modulatory-system.jpg | Ch 4, p41 | pain-as-signal.md |
 
 ---
 

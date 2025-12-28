@@ -8,7 +8,18 @@ related_files:
   - structures/bones-dont-move.md
   - structures/kinetic-chain.md
   - structures/tensegrity.md
-last_updated: "2025-12-23"
+images:
+  - path: images/joint-centration-comparison.jpg
+    alt: "Comparison of centrated vs decentrated joint showing force vectors and surface contact"
+    caption: "Centrated joint shows maximal surface contact and balanced co-contraction; decentrated joint shows partial contact and damaging shearing forces"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 28
+  - path: images/shoulder-anatomy-diagram.jpg
+    alt: "Shoulder anatomy showing bones and joint structure"
+    caption: "Shoulder joint anatomy demonstrating the structures that must maintain centration"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 29
+last_updated: "2025-12-27"
 ---
 
 # Joint Centration
@@ -41,6 +52,10 @@ Joint centration is the **optimal relationship between joint surfaces** that all
 ---
 
 ## Centrated vs. Decentrated Joint
+
+![Joint Centration Comparison](../images/joint-centration-comparison.jpg)
+*Centrated joint (left) shows maximal surface contact, balanced co-contraction, and protected passive structures. Decentrated joint (right) shows partial contact, imbalanced muscle activity, and damaging shearing forces.*
+*(Source: Chapter 3 - Fascial Bunching & the Kinetic Chain, Page 28)*
 
 | Centrated Joint | Decentrated Joint |
 |-----------------|-------------------|

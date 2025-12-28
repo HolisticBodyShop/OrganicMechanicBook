@@ -8,7 +8,13 @@ related_files:
   - structures/tensegrity.md
   - structures/fascial-bunching.md
   - structures/joint-centration.md
-last_updated: "2025-12-23"
+images:
+  - path: images/muscle-contraction-cascade.jpg
+    alt: "Muscle contraction cascade showing neural signal to mechanical movement"
+    caption: "The cascade from neural signal through acetylcholine release to muscle fiber contraction"
+    source_chapter: "Chapter 3 - Fascial Bunching & the Kinetic Chain"
+    source_page: 34
+last_updated: "2025-12-27"
 ---
 
 # Bones Don't Move Themselves
@@ -47,6 +53,10 @@ If a bone is out of position:
 ## What Actually Moves Bones
 
 ### The Chain of Command
+
+![Muscle Contraction Cascade](../images/muscle-contraction-cascade.jpg)
+*The cascade from neural signal through acetylcholine release at the neuromuscular junction to muscle fiber contraction.*
+*(Source: Chapter 3 - Fascial Bunching & the Kinetic Chain, Page 34)*
 
 ```
 Neural Programming
