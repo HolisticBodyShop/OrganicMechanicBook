@@ -105,8 +105,14 @@ If no content attached, respond:
 | **Protocol** | Step-by-step procedure, treatment method | `/protocols/` |
 | **Checklist** | Numbered steps, action list | `/checklists/` |
 | **Case Study** | Patient story, before/after | `/case-studies/` |
-| **Conceptual** | Philosophy, principles, theory | `/concepts/` |
+| **Paradigm** | Worldview, belief system, foundational assumptions | `/paradigms/` |
+| **Concept** | Mental model, thinking tool derived from paradigm | `/concepts/` |
 | **Reference** | Diagram, citation, reading list | `/reference/` |
+
+**Paradigm vs Concept Decision:**
+- **Paradigm** = "How reality works" — foundational worldview that shapes all reasoning (e.g., "body is unified whole", "reductionism is flawed")
+- **Concept** = "How to think about X" — specific mental model or framework derived from paradigm (e.g., "pain as signal", "body as system")
+- Rule: If removing it would change the book's philosophical foundation → paradigm. If it's a tool for understanding specific phenomena → concept.
 
 ---
 
