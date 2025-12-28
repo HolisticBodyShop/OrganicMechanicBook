@@ -5,7 +5,7 @@ related_files:
   - README.md
   - GLOSSARY.md
   - FAQ.md
-last_updated: "2025-12-23"
+last_updated: "2025-12-27"
 ---
 
 # Navigation - Decision Trees & Routing
@@ -51,6 +51,8 @@ last_updated: "2025-12-23"
 | Behavior patterns | Behavior loops, habit formation, why patterns persist | [behavior-loops.md](concepts/behavior-loops.md) |
 | Motor neuron change | Why change takes time, neuroplasticity, timelines | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
 | Light/frequency therapy | Photobiomodulation, Hz effects, mitochondria | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| Integration framework | Four pillars, outcome hierarchy, systems approach | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| Body awareness | Priority signals, body literacy, self-regulation | [body-as-todo-list.md](concepts/body-as-todo-list.md) |
 
 ### Body Structures & Mechanics
 
@@ -77,6 +79,8 @@ last_updated: "2025-12-23"
 | Topic | Indicators | Route To |
 |-------|------------|----------|
 | Pain assessment | Decision tree, evaluation, tracing pain | [pain-decision-tree.md](reference/pain-decision-tree.md) |
+| Author background | Origin story, framework development | [author-journey.md](reference/author-journey.md) |
+| Book conclusion | Final synthesis, call to action | [epilogue.md](reference/epilogue.md) |
 
 ### Protocols
 
@@ -106,6 +110,11 @@ last_updated: "2025-12-23"
 | "How does light therapy work?" | [photobiomodulation.md](concepts/photobiomodulation.md) |
 | "When should I stop treatment?" | [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
 | "What is the Arndt-Schulz law?" | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| "What are the four pillars?" | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| "How do I integrate all of this?" | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| "Why should I listen to my body?" | [body-as-todo-list.md](concepts/body-as-todo-list.md) |
+| "What's the outcome hierarchy?" | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| "Who wrote this book?" | [author-journey.md](reference/author-journey.md) |
 
 ---
 
@@ -138,6 +147,10 @@ last_updated: "2025-12-23"
 | Ch 7 - Re-Coding Motor Neurons | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
 | Ch 8 - Frequency Breakdown | [photobiomodulation.md](concepts/photobiomodulation.md) |
 | Ch 9 - Guardrails | [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
+| Ch 10 - Organic Mechanic Framework | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| Ch 11 - Your Body Is the To-Do List | [body-as-todo-list.md](concepts/body-as-todo-list.md) |
+| Ch 12 - My Story | [author-journey.md](reference/author-journey.md) |
+| Epilogue | [epilogue.md](reference/epilogue.md) |
 
 ---
 

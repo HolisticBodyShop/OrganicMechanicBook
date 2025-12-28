@@ -5,7 +5,7 @@ related_files:
   - README.md
   - GLOSSARY.md
   - NAVIGATION.md
-last_updated: "2025-12-23"
+last_updated: "2025-12-27"
 ---
 
 # Frequently Asked Questions
@@ -27,6 +27,9 @@ last_updated: "2025-12-23"
 | Why does change take so long? | Neuronal wiring changes slowly | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
 | How does light therapy work? | Mitochondrial optimization via cytochrome c oxidase | [photobiomodulation.md](concepts/photobiomodulation.md) |
 | When is frequency treatment too much? | Fatigue, headache, pain flares = signals to reduce | [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
+| What are the four pillars? | Structure, Signal, Energy, Behavior | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| How do I integrate everything? | Organic Mechanic Framework: systems-based coherence | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| Why listen to body signals? | Priority interrupts—ignored signals get louder | [body-as-todo-list.md](concepts/body-as-todo-list.md) |
 
 ---
 
@@ -170,6 +173,34 @@ It might be **mechanically tethered** rather than truly adhesive. Rib restrictio
 
 ---
 
+## Integration & Framework
+
+### Q: What are the "four pillars" of the Organic Mechanic Framework?
+
+**Structure** (mechanics & force), **Signal** (nervous system & timing), **Energy** (frequency & metabolism), and **Behavior** (repetition & time). Every intervention must address all four pillars, either directly or indirectly.
+
+**See**: [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md)
+
+### Q: What is the outcome hierarchy?
+
+The order in which healing success is measured: (1) Safety increases, (2) Motion returns, (3) Load redistributes, (4) Pain decreases, (5) Effort disappears. **If pain decreases before function improves, something was skipped.**
+
+**See**: [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md)
+
+### Q: Why should I treat my body like a to-do list?
+
+Because your body is constantly generating priority signals. Pain, fatigue, and stiffness are not inconveniences—they are **priority interrupts**. Ignoring the list doesn't erase it; it defers it with interest.
+
+**See**: [body-as-todo-list.md](concepts/body-as-todo-list.md)
+
+### Q: What is "body literacy"?
+
+The ability to read, interpret, and respond to body signals early. True discipline is not pushing harder—it's **responding sooner**.
+
+**See**: [body-as-todo-list.md](concepts/body-as-todo-list.md)
+
+---
+
 ## Book-Specific
 
 ### Q: What is this book's core argument?
@@ -190,6 +221,10 @@ The body is intelligent and adaptive. Pain is meaningful information. Structure 
 - Chapter 7: Re-Coding Motor Neurons
 - Chapter 8: Frequency Breakdown
 - Chapter 9: Guardrails
+- Chapter 10: The Organic Mechanic Framework
+- Chapter 11: Your Body Is the To-Do List
+- Chapter 12: My Story
+- Epilogue: A Letter to the Reader
 
 **See**: [NAVIGATION.md](NAVIGATION.md) for routing by chapter
 

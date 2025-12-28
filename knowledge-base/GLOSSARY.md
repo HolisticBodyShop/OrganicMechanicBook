@@ -5,7 +5,7 @@ related_files:
   - README.md
   - NAVIGATION.md
   - FAQ.md
-last_updated: "2025-12-23"
+last_updated: "2025-12-27"
 ---
 
 # Glossary
@@ -36,6 +36,11 @@ last_updated: "2025-12-23"
 | Photobiomodulation | Light-based mitochondrial optimization | [photobiomodulation.md](concepts/photobiomodulation.md) |
 | Arndt-Schulz Law | Biphasic dose-response (more is not better) | [photobiomodulation.md](concepts/photobiomodulation.md) |
 | Cytochrome c Oxidase | Primary cellular target of light therapy | [photobiomodulation.md](concepts/photobiomodulation.md) |
+| Four Pillars | Structure, Signal, Energy, Behavior | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| Organic Mechanic Framework | Systems-based method for restoring coherence | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| Outcome Hierarchy | Safety → Motion → Load → Pain → Effortlessness | [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| Body Literacy | Ability to read and respond to body signals | [body-as-todo-list.md](concepts/body-as-todo-list.md) |
+| Priority Interrupt | Pain/fatigue as nervous system priority signal | [body-as-todo-list.md](concepts/body-as-todo-list.md) |
 
 ---
 
@@ -55,6 +60,11 @@ Pain from stimuli that are not normally painful. A sign of central sensitization
 The baseline activity level of the autonomic nervous system (fight/flight/freeze). Influences pain interpretation.
 
 **See**: [pain-as-signal.md](concepts/pain-as-signal.md)
+
+### Body Literacy
+The ability to read, interpret, and respond to body signals early. Reframes discipline as "responding sooner" rather than "pushing harder."
+
+**See**: [body-as-todo-list.md](concepts/body-as-todo-list.md)
 
 ---
 
@@ -116,6 +126,11 @@ Loss of optimal joint positioning under load. Causes uneven force distribution, 
 A characteristic that arises from system interactions rather than individual parts. Pain is an emergent property of multiple body systems.
 
 **See**: [body-as-system.md](concepts/body-as-system.md)
+
+### Four Pillars
+The four integrated components of the Organic Mechanic Framework: (1) Structure - mechanics & force, (2) Signal - nervous system & timing, (3) Energy - frequency & metabolism, (4) Behavior - repetition & time. Every intervention must address all four.
+
+**See**: [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md)
 
 ---
 
@@ -232,6 +247,16 @@ Sensory receptor that responds to potentially damaging stimuli. Converts input t
 
 ## O
 
+### Organic Mechanic Framework
+A systems-based method for restoring coherence in the human body. Integrates four pillars (Structure, Signal, Energy, Behavior) and follows an outcome hierarchy: Safety → Motion → Load redistribution → Pain decrease → Effort disappears.
+
+**See**: [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md)
+
+### Outcome Hierarchy
+The order in which healing success is measured: (1) Safety increases, (2) Motion returns, (3) Load redistributes, (4) Pain decreases, (5) Effort disappears. If pain decreases before function improves, something was skipped.
+
+**See**: [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md)
+
 ---
 
 ## P
@@ -255,6 +280,11 @@ Manual assessment of tissue through touch. The only method that can assess tissu
 Property of generating electrical charge in response to mechanical stress. Fascia has piezoelectric properties.
 
 **See**: [fascial-bunching.md](structures/fascial-bunching.md)
+
+### Priority Interrupt
+Pain, fatigue, stiffness, and similar body signals viewed as priority system alerts rather than inconveniences. The body does not get quieter when ignored—it gets louder.
+
+**See**: [body-as-todo-list.md](concepts/body-as-todo-list.md)
 
 ### Posture Stack
 Four-layer software architecture for postural control: (1) Conscious Control (weakest), (2) Motor Programs, (3) Reflexes, (4) Sensory Input. Most correction attempts fail because they target Level 1.

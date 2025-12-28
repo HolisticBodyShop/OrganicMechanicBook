@@ -2,7 +2,7 @@
 
 > **Purpose**: Universal routing layer for AI assistants (Claude Code, MCP servers, Claude Projects)
 > **Last Regenerated**: 2025-12-27
-> **Total Files**: 24 | **Total Size**: ~220 KB | **Total Lines**: ~6,500 | **Images**: 61
+> **Total Files**: 28 | **Total Size**: ~270 KB | **Total Lines**: ~8,000 | **Images**: 89
 
 ---
 
@@ -27,11 +27,11 @@
 |--------|------|-------|---------------|
 | **Foundation** | `knowledge-base/` | 5 | Index, navigation, glossary, FAQ, README |
 | **Paradigm** | `paradigm/` | 2 | Book philosophy, medical critique |
-| **Concepts** | `concepts/` | 6 | Body as system, pain, posture, behavior, neurons, frequency |
+| **Concepts** | `concepts/` | 8 | Body as system, pain, posture, behavior, neurons, frequency, framework, body literacy |
 | **Structures** | `structures/` | 5 | Tensegrity, fascia, kinetic chain, joints |
 | **Case Studies** | `case-studies/` | 5 | Clinical examples from Ch 3 |
-| **Reference** | `reference/` | 1 | Pain decision tree |
-| **Images** | `images/` | 61 | Anatomical diagrams, clinical illustrations |
+| **Reference** | `reference/` | 3 | Pain decision tree, author journey, epilogue |
+| **Images** | `images/` | 89 | Anatomical diagrams, clinical illustrations |
 | **Protocols** | `protocols/` | 1 | Frequency safety guardrails |
 | **Templates** | `templates/` | 0 | Fill-in-the-blank guides (future) |
 | **Checklists** | `checklists/` | 0 | Action lists (future) |
@@ -51,6 +51,10 @@
 | "Why does change take so long?" | → [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) |
 | "How does light therapy work?" | → [photobiomodulation.md](concepts/photobiomodulation.md) |
 | "Is frequency treatment safe?" | → [frequency-safety-guardrails.md](protocols/frequency-safety-guardrails.md) |
+| "What are the four pillars?" | → [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| "How do I integrate everything?" | → [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) |
+| "Why should I listen to my body?" | → [body-as-todo-list.md](concepts/body-as-todo-list.md) |
+| "Who wrote this book?" | → [author-journey.md](reference/author-journey.md) |
 | "What does X term mean?" | → [GLOSSARY.md](GLOSSARY.md) |
 | "Show me a clinical example" | → [case-studies/](case-studies/) |
 | "How do I assess pain?" | → [pain-decision-tree.md](reference/pain-decision-tree.md) |
@@ -89,6 +93,8 @@
 | [behavior-loops.md](concepts/behavior-loops.md) | Ch 6 | How the body learns, habit formation |
 | [motor-neuron-recoding.md](concepts/motor-neuron-recoding.md) | Ch 7 | Neuroplasticity, why change takes time |
 | [photobiomodulation.md](concepts/photobiomodulation.md) | Ch 8 | Light therapy, frequency principles |
+| [organic-mechanic-framework.md](concepts/organic-mechanic-framework.md) | Ch 10 | Four pillars, outcome hierarchy, integration |
+| [body-as-todo-list.md](concepts/body-as-todo-list.md) | Ch 11 | Priority signals, body literacy, self-regulation |
 
 ### structures/
 
@@ -112,9 +118,11 @@
 
 ### reference/
 
-| File | Purpose |
-|------|---------|
-| [pain-decision-tree.md](reference/pain-decision-tree.md) | Systematic pain assessment |
+| File | Source | Purpose |
+|------|--------|---------|
+| [pain-decision-tree.md](reference/pain-decision-tree.md) | Ch 4 | Systematic pain assessment |
+| [author-journey.md](reference/author-journey.md) | Ch 12 | Author's story, framework origin |
+| [epilogue.md](reference/epilogue.md) | Epilogue | Final synthesis, call to action |
 
 ### protocols/
 
@@ -184,6 +192,33 @@
 | postural-compensation-patterns.jpg | Ch 9, p119 | frequency-safety-guardrails.md |
 | cervical-instability-symptoms.jpg | Ch 9, p122 | frequency-safety-guardrails.md |
 | photobiomodulation-clinical-applications.jpg | Ch 9, p122 | frequency-safety-guardrails.md |
+| neural-adaptation-hypertrophy-curve.jpg | Ch 10, p125 | organic-mechanic-framework.md |
+| supercompensation-training-cycle.jpg | Ch 10, p126 | organic-mechanic-framework.md |
+| human-nervous-system-ans-diagram.jpg | Ch 10, p128 | organic-mechanic-framework.md |
+| therapy-effects-comparison.jpg | Ch 10, p130 | organic-mechanic-framework.md |
+| jellinek-curve-addiction-recovery.jpg | Ch 10, p132 | organic-mechanic-framework.md |
+| descending-pain-modulatory-system-ch10.jpg | Ch 10, p134 | organic-mechanic-framework.md |
+| masking-vs-healthy-adaptation.jpg | Ch 10, p136 | organic-mechanic-framework.md |
+| ethical-triangle-principles.jpg | Ch 10, p138 | organic-mechanic-framework.md |
+| bioethics-qol-diagram.jpg | Ch 10, p140 | organic-mechanic-framework.md |
+| medical-ethics-concepts.jpg | Ch 10, p142 | organic-mechanic-framework.md |
+| nervous-system-cns-pns-ens.jpg | Ch 10, p144 | organic-mechanic-framework.md |
+| joint-centration-comparison-ch10.jpg | Ch 10, p146 | organic-mechanic-framework.md |
+| muscle-structure-fascicles.jpg | Ch 10, p147 | organic-mechanic-framework.md |
+| kinetic-chain-linked-joints.jpg | Ch 10, p148 | organic-mechanic-framework.md |
+| interneuron-reflex-arc.jpg | Ch 10, p149 | organic-mechanic-framework.md |
+| tetanic-contraction-summation.jpg | Ch 10, p150 | organic-mechanic-framework.md |
+| muscle-spindle-gto-reflex.jpg | Ch 10, p151 | organic-mechanic-framework.md |
+| pbm-mitochondria-therapy.jpg | Ch 10, p152 | organic-mechanic-framework.md |
+| somatic-autonomic-neurons.jpg | Ch 11, p154 | body-as-todo-list.md |
+| habit-loop-cue-routine-reward-ch10.jpg | Ch 11, p155 | body-as-todo-list.md |
+| learning-trace-interval-timing.jpg | Ch 11, p156 | body-as-todo-list.md |
+| assessment-decision-flowchart.jpg | Ch 11, p157 | body-as-todo-list.md |
+| pain-pathway-infographic.jpg | Ch 11, p158 | body-as-todo-list.md |
+| body-temperature-homeostasis.jpg | Ch 11, p159 | body-as-todo-list.md |
+| oxidative-stress-balance.jpg | Ch 11, p160 | body-as-todo-list.md |
+| body-check-chart.jpg | Ch 11, p161 | body-as-todo-list.md |
+| brain-regions-interoception.jpg | Ch 11, p162 | body-as-todo-list.md |
 
 ---
 
@@ -201,7 +236,10 @@
 | Ch 7 - Re-Coding Motor Neurons | Complete | concepts/motor-neuron-recoding.md |
 | Ch 8 - Frequency Breakdown | Complete | concepts/photobiomodulation.md |
 | Ch 9 - Guardrails | Complete | protocols/frequency-safety-guardrails.md |
-| Ch 10+ | Not yet added | — |
+| Ch 10 - The Organic Mechanic Framework | Complete | concepts/organic-mechanic-framework.md |
+| Ch 11 - Your Body Is the To-Do List | Complete | concepts/body-as-todo-list.md |
+| Ch 12 - My Story | Complete | reference/author-journey.md |
+| Epilogue - A Letter to the Reader | Complete | reference/epilogue.md |
 
 ---
 

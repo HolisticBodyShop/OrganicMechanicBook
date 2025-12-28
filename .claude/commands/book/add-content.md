@@ -35,11 +35,25 @@ If no content attached, respond:
    - Remove small files under 10KB (likely icons)
    - View images to identify content before renaming
 
-5. **Rename with descriptive names:**
+5. **Resize oversized images (REQUIRED for Claude API):**
+   - Claude API rejects images >2000px in either dimension for multi-image requests
+   - Check dimensions and resize any oversized images:
+   ```bash
+   # Check dimensions of all extracted images
+   sips -g pixelWidth -g pixelHeight knowledge-base/images/extract-*.jpg
+
+   # Resize any image exceeding 2000px (maintains aspect ratio)
+   sips --resampleWidth 2000 knowledge-base/images/oversized-image.jpg
+   # Or if height is the issue:
+   sips --resampleHeight 2000 knowledge-base/images/oversized-image.jpg
+   ```
+   - Target: max dimension ≤2000px
+
+6. **Rename with descriptive names:**
    - Use lowercase, hyphenated names describing the content
    - Examples: `biotensegrity-human-model.jpg`, `kinetic-chain-diagram.jpg`
 
-6. **Document image in the target markdown file:**
+7. **Document image in the target markdown file:**
 
    **In YAML frontmatter:**
    ```yaml
@@ -58,7 +72,7 @@ If no content attached, respond:
    *(Source: Chapter X - Title, Page 42)*
    ```
 
-7. **Image naming conventions:**
+8. **Image naming conventions:**
    | Content Type | Naming Pattern | Example |
    |--------------|----------------|---------|
    | Anatomy diagrams | `[structure]-[detail].jpg` | `myofascial-lines-four-anatomy-views.jpg` |
@@ -66,7 +80,7 @@ If no content attached, respond:
    | Process diagrams | `[process]-[type].jpg` | `muscle-contraction-cascade.jpg` |
    | Body region | `[region]-[view].jpg` | `shoulder-anatomy-diagram.jpg` |
 
-8. **Expected image sizes:** Typical range 23KB - 250KB. Larger images (>200KB) are usually full-page diagrams.
+9. **Expected image sizes:** Typical range 23KB - 250KB. Larger images (>200KB) are usually full-page diagrams.
 
 **Note:** Requires `poppler` package. Install with `brew install poppler` if not available.
 
